@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Louvendy Sterling  
 
-<!--
-**sterling404/sterling404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ingeniero Civil en Informática** | 💻 **Full-Stack Developer** | 🚀 **Emprendedor Tech**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí
+- 📌 Apasionado por el desarrollo de software y las soluciones SaaS.  
+- 🛠️ Experiencia con **Next.js, React, Node.js, Prisma, PostgreSQL y Cloudinary**.  
+- 🤖 Interés en **IA, optimización de algoritmos y análisis de datos**.  
+- 📚 Aprendiz constante, siempre buscando nuevas formas de crecer y compartir conocimientos.  
+
+---
+
+## 🚀 Proyectos Destacados
+- **[Pontly.app](https://pontly.app)** → Plataforma SaaS para agendamiento de servicios y pagos en línea.  
+- Aplicaciones personales y académicas orientadas a **optimización y visualización de datos**.  
+
+---
+
+## 🛠️ Tecnologías que uso
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)  
+
+---
+
+## 📫 Conéctate conmigo
+- 🌐 [Pontly.app](https://pontly.app)  
+- 💼 [LinkedIn](https://www.linkedin.com) *(pon aquí tu link)*  
+- ✉️ sterling@example.com *(tu correo si quieres compartirlo)*  
+
+---
+
+✨ *Siempre abierto a colaborar en proyectos que generen impacto real y valor para la comunidad.*
