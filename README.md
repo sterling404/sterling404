@@ -30,8 +30,8 @@
 
 ## 📫 Conéctate conmigo
 - 🌐 [Pontly.app](https://pontly.app)  
-- 💼 [LinkedIn](https://www.linkedin.com) *(pon aquí tu link)*  
-- ✉️ sterling@example.com *(tu correo si quieres compartirlo)*  
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/louvendy-sterling-a146361b0/)) *(https://www.linkedin.com/in/louvendy-sterling-a146361b0/)*  
+- ✉️ louvendysterling@gmail.com
 
 ---
 
